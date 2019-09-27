@@ -3,7 +3,8 @@ title: "Useful resource for Ph.D students"
 collection: resources
 ---
 
-Useful website/book/info for Ph.D student. Migrated from [my google site](https://sites.google.com/site/tdnguyencs/csstudentresource).
+Welcome to grad school! Whether you are a fresh or end-of-the-path Ph.D, this page is very useful. MS student also get benefit.
+(Migrated from [my google site](https://sites.google.com/site/tdnguyencs/csstudentresource).)
 
 # Tips and Advises
 
@@ -124,5 +125,5 @@ Useful website/book/info for Ph.D student. Migrated from [my google site](https:
 * Evernote - powerful free-to-use note taking applicaiton
 * Google docs - alternative to MS Word, free and cross-platform.
 
-#Misc
+# Misc
 * [PhD commic](https://phdcomics.com/) - relax after your work. You could view its adapted [movies](https://www.phdmovie.com/).
