@@ -29,3 +29,68 @@ Useful website/book/info for Ph.D student. Migrated from [my google site](https:
 * [FindAPhd](https://www.findaphd.com/advice/doing/life-after-phd-research.aspx) - General guide, good articles, good when doing a PHD or even after that
 * [PublishingCampus](https://www.publishingcampus.elsevier.com/pages/1/Home.html) - Elsevier Training. Advice. Live Discussion. Networks
 * [Writing Center](https://writing.wisc.edu/Handbook/PlanResearchPaper.html) of University of Wisconsin-Madison - Very useful website, giving tips not only for research paper but also CV, grant proposals, technical report, etc.
+
+# Where to publish
+## Journals in Database System
+* [Sigmod Record](http://www.sigmod.org/publications/sigmod-record/1406)
+* [VLDB](http://www.informatik.uni-trier.de/~ley/db/journals/vldb/)
+* [TKDE](http://www.computer.org/portal/web/tkde) - IEEE Transactions on Knowledge and Data Engineering
+* [TODS](http://tods.acm.org/) - ACM Transactions on Database System
+* [IEEE Transactions on Computers](http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=12)  monthly
+* [IEEE Transactions on Knowledge and Data Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) SCI (IF: 2.476)  monthly
+* [Journal of the ACM](http://dl.acm.org/citation.cfm?id=J401)  (IF: 1.8)
+* [Information Sciences](http://www.journals.elsevier.com/information-sciences/)  SCI (IF: 3.364 in 2016) Review speed: 10.7 weeks - 18.9 weeks (2015)
+* [Data and Knowledge Engineering](https://www.journals.elsevier.com/data-and-knowledge-engineering) (DAK). SCI (IF: 1.5 ) Review speed: 
+* ISR - Information Systems Research (Quaterly)
+* IS - Information Systems, SCI (IF: 1.832 in 2016) Review speed: 12.9 weeks - 20.2 weeks (2015)
+* [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems) - SCI (IF: 2.43) Review speed: 11.3 weeks - 17.6 weeks (2016)
+* [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/web/tpds) SCI (IF: 2.6)
+* [Information Systems Journal](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2575) SCI (IF: 2.52) bimonthly 
+* [Information Systems and Applications](http://www.springer.com/computer/information+systems+and+applications/journal/10115) (IF: 1.7) 71 days
+* [Journal of Systems Architecture](https://www.journals.elsevier.com/journal-of-systems-architecture/) 
+* [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/)
+* [Sementic Web Journal](http://www.semantic-web-journal.net/)  (IF: 1.78) 
+* [Journal of Computer and System Science](https://www.journals.elsevier.com/journal-of-computer-and-system-sciences/)   SCI (IF: 1.583)  Review speed: 8.4 ~ 15 weeks (2016)
+* [INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS](http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=ijwis)  Quarterly ISSN: 1744-0084
+* [JOURNAL OF COMPUTERS](http://www.jcomputers.us/)  bimonthly 
+* [Big Data Research](http://www.sciencedirect.com/science/journal/22145796) Quarterly ISSN: 2214-5796 
+
+## Conferences in Database System
+### 1st Tier
+* VLDB - Very Large Data Base
+* ACM SIGMOD - International Conference on Management of Data
+* IEEE ICDE - International Conference on Data Engineering
+* PODS - Symposium on Principles of Database Systems
+* CIDR - Conference on Innovative Data Systems Research
+* EDBT - The International Conference on Extending Database Technology (Based In Euro)
+* ADBIS - International Conf. on Advances in Databases and Information Systems (Based in Euro)
+* CIKM - International Conference on Information and Knowledge Management
+* FAST- USENIX Conference on File and Storage Technologies
+* USENIX Anual Technical Conference 
+* UIC Ubiquitous Intelligent and Computing Intl. Conference (Multi-streamed SSD submit)
+
+### 2nd Tier
+* Computer Science and its Applications (CSA)
+* EDB - Emerging Databases
+* DASFAA: Database Systems for Advanced Applications (based in Asia)
+* SSD: Intl Symp on Large Spatial Databases
+* CIKM: Intl. Conf on Information and Knowledge Management
+* CLOSER - International Conference on Cloud Computing and Services Science
+
+# DB Academic Network
+### Researchers
+* Professor Sang-Won Lee - VLDB lab, SKKU, Korea (my Ph.D advisor)
+* Professor Wook-Shin Han - DB lab, POSTECH, Korea (my MS. advisor)
+* Professor [Michael Stonebraker](https://www.csail.mit.edu/person/michael-stonebraker) - MIT CS and AI lab, Pioneer in DB field.
+* Professor [Jennifer Widom](http://infolab.stanford.edu/~widom/) - Department Chair, Computer Science, Stanford University
+* Professor [Eamonn Keogh](http://www.cs.ucr.edu/~eamonn/) - Computer Science and Engineering Department, University of California - Riverside. Time series DB.
+* Professor [Raghu Ramakrishman](http://pages.cs.wisc.edu/~raghu/) - University of Wisconsin-Madison (until 2012), Technical Fellow and CTO at Microsoft (Information Services), head of Cloud and Information Services Lab (CISL)
+* Dr. [Jim Gray](http://research.microsoft.com/en-us/um/people/gray/), researcher and manager of Microsoft Research's eScience group. ACM Turing award for his work on transaction processing.
+
+### Labs
+* [MIT Database group](http://db.csail.mit.edu/)
+* [Stanford University InfoLab](http://infolab.stanford.edu/index.html)
+* [UC Berkeley Database Group](http://db.cs.berkeley.edu/)
+* [Indiana Database Group](http://www.cs.indiana.edu/database/)
+* [Tehran University database group](http://ece.ut.ac.ir/DBRG/)
+* [Non-Volatile System Lab](http://nvsl.ucsd.edu/index.php?path=pubs)
