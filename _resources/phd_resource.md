@@ -101,16 +101,28 @@ Useful website/book/info for Ph.D student. Migrated from [my google site](https:
 * [Latest Impact Factors](http://about.elsevier.com/impactfactor/2013/author-webpage-50256.html) from Elsevier Computer Science journals
 * [CS Conference ranking](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html) from Department of Computer Science, University of Alberta
 
-# Search/Lookup/Citation Tools
+# Tools
+### Citation Management
 * Mendeley: cross-platform cite management application. Get your papers organized (my favorite)
-* Google Scholarj - Useful when searching for a research paper, citation. (my favorite)
-* Grammarly - Useful at the last stage of writing paper. (my favorite)
+* Ennote: commercial alternative to Mendeley
+* Zotero: free cross-platform alternative to Mendeley.
+### Searching
+* Google Scholar - Useful when searching for a research paper, citation. (my favorite)
 * Google Searching Quick References [PDF](http://www.powersearchingwithgoogle.com/course/ps/assets/PowerSearchingQuickReference.pdf)
 * [Power searching with google](http://www.powersearchingwithgoogle.com/)
 * Naver: search, EN/KO dict, map - Useful when you are living in South Korea
+
+### Writing Tools
+* Latex - strongly prefered for CS and Math related fields.
+* MS-word - universal text editor. You will not want to use this app after you get to know Latex.
+* Grammarly - Useful at the last stage of writing paper. (my favorite)
 * [Thesaurus](http://thesaurus.com/browse/propose) dictionary
 * [Oxford Learner Dictionary](http://www.oxfordlearnersdictionaries.com/)
 * [Cambridge Dictionaries Online](http://dictionary.cambridge.org/)
+
+### Note taking
 * Evernote - powerful free-to-use note taking applicaiton
-* MS word
 * Google docs - alternative to MS Word, free and cross-platform.
+
+#Misc
+* [PhD commic](https://phdcomics.com/) - relax after your work. You could view its adapted [movies](https://www.phdmovie.com/).
