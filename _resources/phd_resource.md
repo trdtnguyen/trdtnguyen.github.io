@@ -94,3 +94,23 @@ Useful website/book/info for Ph.D student. Migrated from [my google site](https:
 * [Indiana Database Group](http://www.cs.indiana.edu/database/)
 * [Tehran University database group](http://ece.ut.ac.ir/DBRG/)
 * [Non-Volatile System Lab](http://nvsl.ucsd.edu/index.php?path=pubs)
+
+# Ranking
+* [Microsoft Academic Journals ranking in Database](http://academic.research.microsoft.com/RankList?entitytype=4&topDomainID=2&subDomainID=18)
+* [Microsoft Academic Conference ranking in Database](http://academic.research.microsoft.com/RankList?entitytype=3&topDomainID=2&subDomainID=18&last=0&start=1&end=100)
+* [Latest Impact Factors](http://about.elsevier.com/impactfactor/2013/author-webpage-50256.html) from Elsevier Computer Science journals
+* [CS Conference ranking](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html) from Department of Computer Science, University of Alberta
+
+# Search/Lookup/Citation Tools
+* Mendeley: cross-platform cite management application. Get your papers organized (my favorite)
+* Google Scholarj - Useful when searching for a research paper, citation. (my favorite)
+* Grammarly - Useful at the last stage of writing paper. (my favorite)
+* Google Searching Quick References [PDF](http://www.powersearchingwithgoogle.com/course/ps/assets/PowerSearchingQuickReference.pdf)
+* [Power searching with google](http://www.powersearchingwithgoogle.com/)
+* Naver: search, EN/KO dict, map - Useful when you are living in South Korea
+* [Thesaurus](http://thesaurus.com/browse/propose) dictionary
+* [Oxford Learner Dictionary](http://www.oxfordlearnersdictionaries.com/)
+* [Cambridge Dictionaries Online](http://dictionary.cambridge.org/)
+* Evernote - powerful free-to-use note taking applicaiton
+* MS word
+* Google docs - alternative to MS Word, free and cross-platform.
