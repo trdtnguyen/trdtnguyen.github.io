@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 I am a Postdoctoral Researcher in the [College of Information and Communication Engineering](http://icc.skku.ac.kr/ice/eng/) at [Sungkyunkwan University](http://skku.edu/). Previously, I completed my Ph.D. in Computer Engineering at  [Sungkyunkwan University](http://skku.edu/) in 2019. I received my Master Degree in Computer Science and Engineering at [Kyungpook National University](https://en.knu.ac.kr/main/main.htm) in 2014. Prior to that I worked as a Web Developer, a SAP Consultant, and a SAP Administrator at Pyramid Consulting Inc, FPT Information Services, and Thuduc Housing Development Corp., respectively.
 
 ## Research Interests
