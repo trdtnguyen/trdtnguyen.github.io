@@ -9,6 +9,16 @@ redirect_from:
 ---
 I am a Postdoctoral Researcher in the [College of Information and Communication Engineering](http://icc.skku.ac.kr/ice/eng/) at [Sungkyunkwan University](http://skku.edu/). Previously, I completed my Ph.D. in Computer Engineering at  [Sungkyunkwan University](http://skku.edu/) in 2019. I received my Master Degree in Computer Science and Engineering at [Kyungpook National University](https://en.knu.ac.kr/main/main.htm) in 2014. Prior to that I worked as a Web Developer, a SAP Consultant, and a SAP Administrator at Pyramid Consulting Inc, FPT Information Services, and Thuduc Housing Development Corp., respectively.
 
+## Research Interests
+- NVM-aware RDBMS, NoSQL with NVDIMM.
+- Flash oriented in NoSQL DBMS.
+- Big Data analysis.
+
+## Education
+- Sungkyunkwan University, Suwon, S. Korea - PhD in Computer Engineering  (Sep 2014 - Aug 2019).
+- Kyungpook National University, Daegu, S. Korea  - MS in Computer Science and Engineering (Mar 2012 - Feb 2014).
+- University of Science, Ho Chi Minh, Vietnam - BS in Information Technology (Sep 2003 - Sep 2007).
+
 ## Experience
 - [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - postdoctoral researcher in Database Management System. (Aug 2019 - current).
 - [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - Ph.D researcher in Database Management System. Advisor Professor Sang-Won Lee (Sep 2014 - Aug 2019).
@@ -17,16 +27,6 @@ I am a Postdoctoral Researcher in the [College of Information and Communication 
 - FPT Information Services, Ho Chi Minh, Vietnam  - SAP consultant (Nov 2009 - Mar 2011).
 - Pyramid Consulting Inc, Ho Chi Minh, Vietnam - Flash Developer (Feb 2008 - Nov 2009).
 - Gameloft, Ho Chi Minh, Vietnam - Mobile Game Developer (Oct 2007 - Dec 2007).
-
-## Education
-- Sungkyunkwan University, Suwon, S. Korea - PhD in Computer Engineering  (Sep 2014 - Aug 2019).
-- Kyungpook National University, Daegu, S. Korea  - MS in Computer Science and Engineering (Mar 2012 - Feb 2014).
-- University of Science, Ho Chi Minh, Vietnam - BS in Information Technology (Sep 2003 - Sep 2007).
-
-## Research Interests
-- NVM-aware RDBMS, NoSQL with NVDIMM.
-- Flash oriented in NoSQL DBMS.
-- Big Data analysis.
 
 ## Projects
 - mysql-ppl - Partitioned Logging in MySQL using NVDIMM (2019).
