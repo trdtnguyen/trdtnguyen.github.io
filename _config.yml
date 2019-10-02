@@ -265,8 +265,8 @@ defaults:
       type: notes
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
       comment: false
 
 # Sass/SCSS
