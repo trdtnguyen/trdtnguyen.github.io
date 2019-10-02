@@ -190,6 +190,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -255,6 +258,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: false
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: false
+      share: false
       comment: false
 
 # Sass/SCSS
