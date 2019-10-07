@@ -16,7 +16,37 @@ Used in the first time install git in your linux system.
 $ git config --global user.name "datnguyen"
 $ git config --global user.email "datnguyen@skku.edu"
 ```
+## Add files to local repo
+The 5 steps are: pull (optional) > check status > add files > commit > push
+```
+$ git pull
+$ git status
+$ git add -u
+$ git commit -m "<message>"
+$ git push origin <branch_name>
+```
 
+#### Pull: 
+
+Before commit the new updates to the repo, we should update the lastest version from the repo. This step is necessary when you update your repo more than one place (you may coopwork with some people in this repo).
+```
+$ git pull
+```
+#### Checking the current status:
+
+Take a review what has been changed before commit the new updates
+```
+$ git status
+```
+#### Adding files:
+To add only updated files:
+```
+$ git add -u
+```
+Or, to add all changes:
+```
+$ git add --all
+```
 
 ## Ignore files
 To filter out unnessary file types e.g., output files, use gitignore
