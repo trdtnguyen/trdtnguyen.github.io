@@ -20,7 +20,7 @@ I am a Postdoctoral Researcher in the [College of Information and Communication 
 - University of Science, Ho Chi Minh, Vietnam - BS in Information Technology (Sep 2003 - Sep 2007).
 
 ## Experience
-- [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - postdoctoral researcher in Database Management System. (Aug 2019 - current).
+- [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - postdoctoral researcher in Database Management System. (Aug 2019 - Oct 2019).
 - [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - Ph.D researcher in Database Management System. Advisor Professor Sang-Won Lee (Sep 2014 - Aug 2019).
 - [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), DB laboratory, Daegu, Korea  - research assistant in Database Management System. Advisor: Professor[Wook-Shin Han](https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/people/professor-1) (Mar 2012 - Feb 2014).
 - Thuduc Housing Development Corp. Ho Chi Minh, Vietnam  - SAP-ERP Administrator (Apr 2011 - Feb 2012).
@@ -48,6 +48,7 @@ I am a Postdoctoral Researcher in the [College of Information and Communication 
 - **Trong-Dat Nguyen**, and Sang-Won Lee."DSM: A Low-Overhead, High-Performance, Dynamic Stream Mapping Approach for MongoDB". *Journal of Information Science and Engineering*, Vol.35, No. 2, pp. 447-469, March 2019. [[paper](http://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=167_2231)]
 
 ### Conference publications
+- **Trong-Dat Nguyen**, Jeong-Hyeok Park and Sang-Won Lee , "Revisiting write-ahead logging with NVDIMM", *Korean DataBase Conference (KDBC)*,  Oct 2019, ChunCheon, Korea. [[paper](http://dbsociety.or.kr/kdbc2019/KDBC2019-%EC%B5%9C%EC%A2%85_20191010_v2.pdf)
 - **Trong-Dat Nguyen**, and Sang-Won Lee. "Optimizing MongoDB Using Multi-streamed SSD". *In Seventh International Conference on Emerging Databases: Technologies, Applications, and Theory*. Springer, 2017. [[paper](https://link.springer.com/chapter/10.1007/978-981-10-6520-0_1)]
 - **Trong-Dat Nguyen**, Sang-Won Lee, "MongoDB Journaling Evaluation with NVDIMM Devices", *Korea Information Science Society , Proceedings of the Korea Information Science Society Conference  (KCC)*, 2017. [[paper](http://www.dbpia.co.kr/Journal/PDFViewNew?id=NODE07207175)]
 - **Trong-Dat Nguyen**, and Sang-Won Lee. "I/O characteristics of MongoDB and trim-based optimization in flash SSDs." *Proceedings of the Sixth International Conference on Emerging Databases: Technologies, Applications, and Theory*. ACM, 2016. [[paper](http://dl.acm.org/citation.cfm?id=3007844)]
