@@ -1,3 +1,8 @@
+---
+title: "Python Note"
+collection: notes
+---
+
 A simple note for python programming
 
 [Nutshell](#nutshell) | [Print](#print) | [Array](#array)
