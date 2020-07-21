@@ -10,9 +10,10 @@ For detail, view our [[paper](http://jise.iis.sinica.edu.tw/JISESearch/pages/Vie
 
 ## Multi-streamed SSD
 
-Out-of-place updates in NAND flash SSD require a data block (i.e., sector) must be erased before new data are writing on. If there are some valid data pages on the block, they must be copied to new empty block before the old block is ereased. That lead to copying overhead. If the erasing block has all invalid pages, then there is no cost for copying back pages. That is the key point why multi-streamed SSD was born for.
+***Erasing overhead.*** Out-of-place updates in NAND flash SSD require a data block (i.e., sector) must be erased before new data are writing on. Erasing a block with all invalid or valid data is fast. The Flash Translation Layer (FTL) just adjusts the mapping table (map logical block address to physical block address). However, with partial invalid blocks, that are blocks have some valid data pages, FTL must copy valid pages to new empty block before erasing the old one. That lead to copying overhead. How to minimize partial invalid blocks?. Multi-streamed SSD was born to answer that question.
 
+***Multi-streamed SSD basic.*** Multi-streamed SSD allows applications from *user space* or *kernel space* assigning a stream along with a *write* or *pwrite* system call. As the results, all writes with the same stream ID alocated in the same NAND block. If the stream assigning in application is done properly, all pages in the same block will be invalid at the same time. Thus, minize the number of partial invalid blocks.
 
-
-<img src='/images/portfolio_imgs/mssd/fig1_mssd.jpg'>
+## Stream mapping strategies
+Finding the properly stream mapping strategy is nontrivial. It depends on storage engines, file structures, and the applications (i.e., workloads).
 
