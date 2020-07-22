@@ -21,3 +21,9 @@ Finding the properly stream mapping strategy is nontrivial. It depends on storag
 
 To solve that problem, we propose boundary-based stream mapping that is discussed in next section.
 
+***Boundary-based stream mapping.*** We split one file into two regions and assign each one with a streamID as illustrated in the figure below:
+
+<img src='/images/portfolio_imgs/mssd/boundary_stream_mapping.jpg' height="300">
+Note that boundary-based stream mapping is specified only for WiredTiger or any storage engine that share similar characteristics. Boundary-based stream mapping works based on the boundary regardless of hotness of regions. In some workloads, regions are not either hot or cold but warm. In those cases, boundary-based is inadequate and data fragmentation in one region still exists. 
+
+***Dynamic stream mapping***
