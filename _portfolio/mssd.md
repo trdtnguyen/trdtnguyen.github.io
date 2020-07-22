@@ -41,3 +41,27 @@ With DSM, we solve the cross-region data fragmentation. Take the privious write 
 </div>
  
 DSM could identify the warm region and assigns different streamID (stream 3) to the hot region (stream 4) and cold region (stream 2). 
+
+## Experiment
+***Experiment Settings.*** For using multi-streamed feature, we modifed Linux kernel 3.13.11 and customized firmware Samsung 840 Pro SSD. We experiment on the server with 48 cores Intel Xeon 2.2GHz processor, 32GB DRAM, Samsung 840 Pro SSD with multi-streamed feature. We implement stream mapping aproaches on the original WiredTiger on MongoDB and set the cache size vary from 5GB to 30GB.
+We assign streams for each approach as the below table:
+<div>
+<img src='/images/portfolio_imgs/mssd/stream_mapping_table.jpg' width="450">
+</div>
+
+***Workloads.*** We use YCSB with 23 million documents and Linkbench with *maxid1* set to 80 million. To vary the write intensive, we config the benchmarks as below:
+
+* Y-Update-Heavy: YCSB workload A.
+* Y-Update-Only: YCSB only update operation
+* LB-Original: Original Linkbench configuration
+* LB-Mixed: Modified Linkbench with mixed Create, Update, Delete operations.
+* LB-Update-Only: Modified Linkbench with only Update operation.
+
+***Experiment Resutls***
+<div>
+<img src='/images/portfolio_imgs/mssd/DSM_iops.jpg' height="300">
+</div>
+
+<div>
+<img src='/images/portfolio_imgs/mssd/DSM_lat.jpg' height="300">
+</div>
