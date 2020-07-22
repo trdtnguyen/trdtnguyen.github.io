@@ -1,6 +1,6 @@
 ---
 title: "DSM: A Low-Overhead, High-Performance, Dynamic Stream Mapping Approach for MongoDB"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio_imgs/mssd/fig1_mssd.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio_imgs/mssd/DSM_process.jpg'>"
 collection: portfolio
 ---
 
@@ -22,8 +22,22 @@ Finding the properly stream mapping strategy is nontrivial. It depends on storag
 To solve that problem, we propose boundary-based stream mapping that is discussed in next section.
 
 ***Boundary-based stream mapping.*** We split one file into two regions and assign each one with a streamID as illustrated in the figure below:
-
+<div>
 <img src='/images/portfolio_imgs/mssd/boundary_stream_mapping.jpg' height="300">
-Note that boundary-based stream mapping is specified only for WiredTiger or any storage engine that share similar characteristics. Boundary-based stream mapping works based on the boundary regardless of hotness of regions. In some workloads, regions are not either hot or cold but warm. In those cases, boundary-based is inadequate and data fragmentation in one region still exists. 
+</div>
+   
+Note that boundary-based stream mapping is specified only for WiredTiger or any storage engine that share similar characteristics. Boundary-based stream mapping works based on the boundary regardless of hotness of regions. In some workloads, regions are not either hot or cold but warm. In those cases, boundary-based is inadequate and data fragmentation in one region still exists. To solve that problem we proposed dynamic stream mapping.
 
-***Dynamic stream mapping***
+***Dynamic stream mapping (DSM).*** This approach compute hotness values of regions during a checkpoint period and dynamically assigns properly streamID to each region based on its hotness value. The overall process is illustrated in the figure below.
+
+<div>
+<img src='/images/portfolio_imgs/mssd/DSM_process.jpg' height="300">
+</div>
+
+With DSM, we solve the cross-region data fragmentation. Take the privious write pattern as illustration.
+
+<div>
+<img src='/images/portfolio_imgs/mssd/dynamic_stream_mapping.jpg' height="300">
+</div>
+ 
+DSM could identify the warm region and assigns different streamID (stream 3) to the hot region (stream 4) and cold region (stream 2). 
