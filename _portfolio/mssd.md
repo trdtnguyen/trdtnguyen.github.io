@@ -46,12 +46,14 @@ DSM could identify the warm region and assigns different streamID (stream 3) to 
 ***Experiment Settings.*** For using multi-streamed feature, we modifed Linux kernel 3.13.11 and customized firmware Samsung 840 Pro SSD. We experiment on the server with 48 cores Intel Xeon 2.2GHz processor, 32GB DRAM, Samsung 840 Pro SSD with multi-streamed feature. We implement stream mapping aproaches on the original WiredTiger on MongoDB and set the cache size vary from 5GB to 30GB.
 We assign streams for each approach as the below table:
 
-Method | Kernel | metadata | Journal | Primary Index | Collection | 2nd Index
+Methods | Kernel | metadata | Journal | Primary Index | Collection | 2nd Index
 ----------|-------|--------|--------|----------|--------|--------
 Original | 0 | 0 | 0 | 0 | 0 | 0
 File-based | 0 | 0 | 1 | 3 | 2 | 3
-Boundary-based | 0 | 0 | 1 | 4,5 | 2,3 | 4,5
+Boundary-based | 0 | 0 | 1 | 4, 5 | 2, 3 | 4, 5
 DSM | 0 | 0 | 1 | 1 | 2, 3, 4 | 5, 6, 7
+
+Note that updates to kernel are assigned with streamID 0 as default.
 
 ***Workloads.*** We use YCSB with 23 million documents and Linkbench with *maxid1* set to 80 million. To vary the write intensive, we config the benchmarks as below:
 
@@ -70,9 +72,19 @@ DSM | 0 | 0 | 1 | 1 | 2, 3, 4 | 5, 6, 7
 <img src='/images/portfolio_imgs/mssd/DSM_lat.jpg' height="300">
 </div>
 
-First header | File-based | Boundary-based | DSM
+Below table summary the maximize output from the experiment results.
+
+Metric | File-based | Boundary-based | DSM
 --------------------------|--------|-------|--------
 YCSB throughput | +19% | +44% | N/A
 YCSB avg 99th lat | -20% | -32% | N/A
 Linkbench throughput | +24% | +43% | +65%
 Linkbench avg 99th lat | -20% | -24% | -46%
+
+Note that YCSB benchmark include one collection and one primary index. Moreover, all YCSB workload only update the collection file. Therefore, we don't include the result of DSM in YCSB benchmarks.
+## Take-away Keys
+* Multi-streamed SSD allows application group data with similar frequency access into one NAND block that could reduce the overhead of erase operation.
+* File-based stream mapping is the simples but ineffective approach.
+* Boundary-based stream mapping assigns streamID for two regions of each file seperated by a boundary. It solve data fragmentation between regions but inadaque to solve data fragmentation inside one region.
+* Dynamic stream mapping assigns streams based on region's hotness value. It solve data fragmentation inside one region.
+
