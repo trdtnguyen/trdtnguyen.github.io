@@ -45,9 +45,13 @@ DSM could identify the warm region and assigns different streamID (stream 3) to 
 ## Experiment
 ***Experiment Settings.*** For using multi-streamed feature, we modifed Linux kernel 3.13.11 and customized firmware Samsung 840 Pro SSD. We experiment on the server with 48 cores Intel Xeon 2.2GHz processor, 32GB DRAM, Samsung 840 Pro SSD with multi-streamed feature. We implement stream mapping aproaches on the original WiredTiger on MongoDB and set the cache size vary from 5GB to 30GB.
 We assign streams for each approach as the below table:
-<div>
-<img src='/images/portfolio_imgs/mssd/stream_mapping_table.jpg' width="450">
-</div>
+
+Method | Kernel | metadata | Journal | Primary Index | Collection | 2nd Index
+----------|-------|--------|--------|----------|--------|--------
+Original | 0 | 0 | 0 | 0 | 0 | 0
+File-based | 0 | 0 | 1 | 3 | 2 | 3
+Boundary-based | 0 | 0 | 1 | 4,5 | 2,3 | 4,5
+DSM | 0 | 0 | 1 | 1 | 2, 3, 4 | 5, 6, 7
 
 ***Workloads.*** We use YCSB with 23 million documents and Linkbench with *maxid1* set to 80 million. To vary the write intensive, we config the benchmarks as below:
 
@@ -65,3 +69,10 @@ We assign streams for each approach as the below table:
 <div>
 <img src='/images/portfolio_imgs/mssd/DSM_lat.jpg' height="300">
 </div>
+
+First header | File-based | Boundary-based | DSM
+--------------------------|--------|-------|--------
+YCSB throughput | +19% | +44% | N/A
+YCSB avg 99th lat | -20% | -32% | N/A
+Linkbench throughput | +24% | +43% | +65%
+Linkbench avg 99th lat | -20% | -24% | -46%
