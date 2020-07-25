@@ -18,10 +18,16 @@ Most writes occured in DBMSs come from Buffer Management. Buffer management allo
 
 One may solve the first problem easily by using fast storage device such as NVMe SSD instead of hard disks. However, the second problem is nontrivial due to:
 * ***High lock contention.*** Centralized buffer pool causes high lock contention between query threads (threads update data on buffer pool) and eviction thread (thread flush dirty pages from buffer pool to storage devices).
-* ***Redundant IOs.*** To ensure dirty pages are written "in-whole" to storage devices, InnoDB writes dirty pages first on douwlbe-write buffer (DWB) then writes the same copies on database tables (system tablespace, user tablespace).
+* ***Redundant IOs.*** To ensure dirty pages are written "in-whole" to storage devices, InnoDB writes dirty pages first on douwlbe-write buffer (DBW) then writes the same copies on database tables (system tablespace, user tablespace).
 * ***Long flushing time*** To ensure data durability, DBMS uses synchronized write that takes long flushing time. In other words, eviction thread hold the buffer pool's lock until it ensures all written data are durable in the storage device. During that period, query threads which access to the buffer pool must waiting for the lock.
 
+We propose a partition buffer on non-volatile memory (PB-NVM) to solve those problems.
 ## PB-NVM Architecture
+
+In PB-NVM, we use partition buffers located in NVDIMM as an extra storage layer between DRAM and SSD. When the buffer pool in DRAM is full, it evicts victim pages to partition buffers using fast byte-addressable operation (e.g., *memcpy*). 
+
+* ***High lock contention.*** We using partition buffers located in NVDIMM to allow query threads access in parallel. Each partition buffer maintains dependent lock, so there is no lock contention.
+* ***Redundant IOs.*** 
 
 <div>
 <img src='/images/portfolio_imgs/PB-NVM/PB-arch.jpg'>
@@ -37,4 +43,4 @@ One may solve the first problem easily by using fast storage device such as NVMe
 <img src='/images/portfolio_imgs/PB-NVM/PB-Linkbench-throughput.jpg'>
 </div>
 
-## Key Take-aways
+## Key Points
