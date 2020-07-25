@@ -24,14 +24,19 @@ One may solve the first problem easily by using fast storage device such as NVMe
 We propose a partition buffer on non-volatile memory (PB-NVM) to solve those problems.
 ## PB-NVM Architecture
 
-In PB-NVM, we use partition buffers located in NVDIMM as an extra storage layer between DRAM and SSD. When the buffer pool in DRAM is full, it evicts victim pages to partition buffers using fast byte-addressable operation (e.g., *memcpy*). 
+In PB-NVM, we use partition buffers located in NVDIMM as an extra storage layer between DRAM and SSD. When the buffer pool in DRAM is full, *eviction process* evicts victim pages to partition buffers using fast byte-addressable operation (e.g., *memcpy*). When a partition buffer becomes full, it is moved to the *Flusher* area and replaced with a empty buffer from the *Free Block Pool*. The *Flusher* includes of *propagation processes* that responsible for asynchronously flush block pages from NVDIMM to SSD. When a propagation process ensures all data pages are durable on storage device, it reset the data block and puts back to the *Free Block Pool* for reusing.
 
-* ***High lock contention.*** We using partition buffers located in NVDIMM to allow query threads access in parallel. Each partition buffer maintains dependent lock, so there is no lock contention.
-* ***Redundant IOs.*** 
+The figure below illustrates PB-NVM's architecture.
 
 <div>
 <img src='/images/portfolio_imgs/PB-NVM/PB-arch.jpg'>
 </div>
+
+Here are why PB-NVM solve the problems:
+
+* ***High lock contention.*** We using partition buffers located in NVDIMM to allow query threads access in parallel. Each partition buffer maintains dependent lock, so there is no lock contention.
+* ***Redundant IOs.*** 
+
 
 ## Experiment
 
