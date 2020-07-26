@@ -1,6 +1,6 @@
 ---
 title: "PB-NVM: A High Performance Partitioned Buffer on NVDIMM"
-excerpt: "PB-NVM architecture<br/><img src='/images/portfolio_imgs/project-PBNVM.jpg'>"
+excerpt: "DBMS: MySQL, MongoDB <br/> Languages: C/C++, Python, Shell script <br/> Technologies: PMDK from pmem.io, TPC-C, YCSB, Linkbench <br/><img src='/images/portfolio_imgs/project-PBNVM.jpg'>"
 collection: portfolio
 ---
 
