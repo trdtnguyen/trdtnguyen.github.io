@@ -1,6 +1,6 @@
 ---
 title: "PB-NVM: A High Performance Partitioned Buffer on NVDIMM"
-excerpt: "PB-NVM architecture<br/><img src='/images/portfolio_imgs/PB-NVM/PB-arch.jpg'>"
+excerpt: "PB-NVM architecture<br/><img src='/images/portfolio_imgs/project-PBNVM.jpg'>"
 collection: portfolio
 ---
 
