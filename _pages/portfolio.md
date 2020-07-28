@@ -17,7 +17,7 @@ author_profile: false
 * ***Languages:*** C/C++, Python, Shell script.
 * ***Technologies:*** PMDK from pmem.io, TPC-C, YCSB, Linkbench.
 * ***Public paper(s):*** [SCIE paper](https://www.sciencedirect.com/science/article/pii/S1383762118303102?via%3Dihub#b1)
-* ***Githubs:*** [[MySQL 5.7](https://github.com/trdtnguyen/mysql-pmem)] | [[MongoDB](https://github.com/trdtnguyen/mongo-pmem)]
+* ***Githubs:*** [[MySQL 5.7](https://github.com/trdtnguyen/mysql-pmem)], [[MongoDB](https://github.com/trdtnguyen/mongo-pmem)]
 
 <img src='/images/portfolio_imgs/project_PBNVM.jpg' width="700">
 
@@ -26,7 +26,7 @@ author_profile: false
 * ***DBMS:*** MongoDB.
 * ***Languages:*** C/C++, Shell script.
 * ***Technologies:*** Multi-streamed SSD, YCSB, Linkbench.
-* ***Public paper(s):*** [[SCIE paper](http://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=167_2231)] | [[Conf. paper](https://link.springer.com/chapter/10.1007/978-981-10-6520-0_1)]
+* ***Public paper(s):*** [[SCIE paper](http://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=167_2231)], [[Conf. paper](https://link.springer.com/chapter/10.1007/978-981-10-6520-0_1)]
 * ***Github:*** [[mongo-mssd](https://github.com/trdtnguyen/mongo-mssd)]
 
 <img src='/images/portfolio_imgs/project_DSM.jpg' width="700">
