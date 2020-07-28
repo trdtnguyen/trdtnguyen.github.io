@@ -7,7 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Highly motivated, integrity developer/researcher with over 5 years’ experience in researching, developing, optimizing RDBMS and NoSQL databases. Exceptional ability for exploiting cutting edge storage technology (persistent memory) to solve database systems’ problems.
+
 I am a Postdoctoral Researcher in the [College of Information and Communication Engineering](http://icc.skku.ac.kr/ice/eng/) at [Sungkyunkwan University](http://skku.edu/). Previously, I completed my Ph.D. in Computer Engineering at  [Sungkyunkwan University](http://skku.edu/) in 2019. I received my Master Degree in Computer Science and Engineering at [Kyungpook National University](https://en.knu.ac.kr/main/main.htm) in 2014. Prior to that I worked as a Web Developer, a SAP Consultant, and a SAP Administrator at Pyramid Consulting Inc, FPT Information Services, and Thuduc Housing Development Corp., respectively.
+
+# Professional Experience
+### [VLDB laboratory](http://flashsql.skku.ac.kr/), [Sungkyunkwan University](http://skku.edu/), Suwon, Korea (Aug 2019 - Oct 2019)
+_Postdoctoral Researcher_ 
+* Researches and implements a partition REDO logging architecture that exploits NVDIMM to improve MySQL/InnoDB’s throughput up to 2.8 times and reduce the recovery time by up to 11 times in OLTP workloads [[SCIE paper](http://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=167_2231)].
+
+- [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - Ph.D researcher in Database Management System. Advisor Professor Sang-Won Lee (Sep 2014 - Aug 2019).
+- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), DB laboratory, Daegu, Korea  - research assistant in Database Management System. Advisor: Professor[Wook-Shin Han](https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/people/professor-1) (Mar 2012 - Feb 2014).
+- Thuduc Housing Development Corp. Ho Chi Minh, Vietnam  - SAP-ERP Administrator (Apr 2011 - Feb 2012).
+- FPT Information Services, Ho Chi Minh, Vietnam  - SAP consultant (Nov 2009 - Mar 2011).
+- Pyramid Consulting Inc, Ho Chi Minh, Vietnam - Flash Developer (Feb 2008 - Nov 2009).
+- Gameloft, Ho Chi Minh, Vietnam - Mobile Game Developer (Oct 2007 - Dec 2007).
 
 ## Research Interests
 - NVM-aware RDBMS, NoSQL with NVDIMM.
@@ -19,14 +33,6 @@ I am a Postdoctoral Researcher in the [College of Information and Communication 
 - Kyungpook National University, Daegu, S. Korea  - MS in Computer Science and Engineering (Mar 2012 - Feb 2014).
 - University of Science, Ho Chi Minh, Vietnam - BS in Information Technology (Sep 2003 - Sep 2007).
 
-## Experience
-- [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - postdoctoral researcher in Database Management System. (Aug 2019 - Oct 2019).
-- [Sungkyunkwan University](http://skku.edu/), [VLDB laboratory](http://flashsql.skku.ac.kr/), Suwon, Korea - Ph.D researcher in Database Management System. Advisor Professor Sang-Won Lee (Sep 2014 - Aug 2019).
-- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), DB laboratory, Daegu, Korea  - research assistant in Database Management System. Advisor: Professor[Wook-Shin Han](https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/people/professor-1) (Mar 2012 - Feb 2014).
-- Thuduc Housing Development Corp. Ho Chi Minh, Vietnam  - SAP-ERP Administrator (Apr 2011 - Feb 2012).
-- FPT Information Services, Ho Chi Minh, Vietnam  - SAP consultant (Nov 2009 - Mar 2011).
-- Pyramid Consulting Inc, Ho Chi Minh, Vietnam - Flash Developer (Feb 2008 - Nov 2009).
-- Gameloft, Ho Chi Minh, Vietnam - Mobile Game Developer (Oct 2007 - Dec 2007).
 
 ## Projects
 - mysql-ppl - Partitioned Logging in MySQL using NVDIMM (2019).
