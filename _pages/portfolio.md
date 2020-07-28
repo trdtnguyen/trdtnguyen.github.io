@@ -19,7 +19,7 @@ author_profile: false
 * ***Public paper(s):*** [SCIE paper](https://www.sciencedirect.com/science/article/pii/S1383762118303102?via%3Dihub#b1)
 * ***Githubs:*** [[MySQL 5.7](https://github.com/trdtnguyen/mysql-pmem)] | [[MongoDB](https://github.com/trdtnguyen/mongo-pmem)]
 
-<img src='/images/portfolio_imgs/project-PBNVM.jpg' width="700">
+<img src='/images/portfolio_imgs/project_PBNVM.jpg' width="700">
 
 ## DSM: A Low-Overhead, High-Performance, Dynamic Stream Mapping Approach for MongoDB 
 
@@ -42,3 +42,14 @@ author_profile: false
 Analyzed I/O characteristics of MongoDB using YCSB benchmark and _blktrace_. Described space management in WiredTiger. Optimized MongoDB using TRIM command, improved throughput up to 14.7%
 
 <img src='/images/portfolio_imgs/project_TRIM.jpg'  width="700">
+
+## Stock Prices Matching
+
+* ***OS:*** Androi.
+* ***Languages:*** Java.
+* ***Technologies:*** Androi Studio, Eclipse.
+* ***Public paper(s):*** [[thesis paper](http://dcollection.knu.ac.kr/public_resource/pdf/000000057598_20200729013632.pdf)]
+* ***Github:*** 
+* ***Presentations:**** [[KDBC 2015](http://dbsociety.or.kr/kdbc2015/kdbc_conf.html)]
+
+<img src='/images/portfolio_imgs/project_stockmatch.jpg'  width="700">
