@@ -15,14 +15,14 @@ main:
   - title: "Resources"
     url: /resources/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  # url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Notes"
-    url: /notes/
+  #- title: "Notes"
+  #  url: /notes/
     
   #- title: "Guide"
   #  url: /markdown/
