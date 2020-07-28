@@ -1,6 +1,6 @@
 ---
 title: "DSM: A Low-Overhead, High-Performance, Dynamic Stream Mapping Approach for MongoDB"
-excerpt: "DBMS: MongoDB <br/> Languages: C/C++, Shell script <br/> Technologies: Multi-streamed SSD, YCSB, Linkbench <br/><img src='/images/portfolio_imgs/project_DSM.jpg'>"
+excerpt: "DBMS: MongoDB <br/> Languages: C/C++, Shell script <br/> Technologies: Multi-streamed SSD, YCSB, Linkbench <br/><img src='/images/portfolio_imgs/project_DSM.jpg' width='800'>"
 collection: portfolio
 ---
 
