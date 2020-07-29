@@ -29,16 +29,17 @@ _Research Assistant_
 *	Researched and evaluated with graph database (e.g., Neo4j, GraphBase). 
 * Advisor: Professor [Wook-Shin Han](https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/people/professor-1)
 
-### Thuduc Housing Development Corp. Ho Chi Minh, Vietnam (Apr 2011 - Feb 2012)
+### [Thuduc Housing Development Corp.](http://thuduchouse.vn/), Ho Chi Minh, Vietnam (Apr 2011 - Feb 2012)
 _IT Staff_
 * Supported staffs in SAP ERP. 
 * Coordinated with Business Intelligent (BI) developers and other SAP consultants.
-### FPT Information Services, Ho Chi Minh, Vietnam (Nov 2009 - Mar 2011)
+
+### [FPT Software](https://www.fpt-software.com/), Ho Chi Minh, Vietnam (Nov 2009 - Mar 2011)
 _SAP Consultant_
 *	Coordinated and consulted with customers to understand requirements, business processes.
 *	Configured SAP system to match with customer’s requirements.
 
-### Pyramid Consulting Inc, Ho Chi Minh, Vietnam (Feb 2008 - Nov 2009)
+### [Pyco Group](https://pycogroup.com/home), Ho Chi Minh, Vietnam (Feb 2008 - Nov 2009)
 _Flash Developer_
 *	Developed flash applications with ActionScript3 Flash, Javascript/HTML.
 *	Coordinated and onsite supported with project manager in the US.
