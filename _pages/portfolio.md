@@ -10,8 +10,17 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 -->
+## Revisiting write-ahead logging with NVDIMM (2019)
 
-## PB-NVM: A High Performance Partitioned Buffer on NVDIMM
+* ***DBMS:*** MySQL.
+* ***Languages:*** C/C++, Shell script.
+* ***Technologies:*** PMDK from pmem.io, TPC-C, Linkbench.
+* ***Public paper(s):*** [conf. paper](https://www.researchgate.net/profile/Trong_Dat_Nguyen/publication/336550336_Revisiting_write-ahead_logging_with_NVDIMM/links/5da524bfa6fdcc8fc3528a09/Revisiting-write-ahead-logging-with-NVDIMM.pdf)
+
+
+<img src='/images/portfolio_imgs/project_WAL.jpg' width="700">
+
+## PB-NVM: A High Performance Partitioned Buffer on NVDIMM (2018 - 2019)
 
 * ***DBMS:*** MySQL, MongoDB.
 * ***Languages:*** C/C++, Python, Shell script.
@@ -21,7 +30,7 @@ author_profile: false
 
 <img src='/images/portfolio_imgs/project_PBNVM.jpg' width="700">
 
-## DSM: A Low-Overhead, High-Performance, Dynamic Stream Mapping Approach for MongoDB 
+## Dynamic Stream Mapping on MongoDB (2017)
 
 * ***DBMS:*** MongoDB.
 * ***Languages:*** C/C++, Shell script.
@@ -31,7 +40,7 @@ author_profile: false
 
 <img src='/images/portfolio_imgs/project_DSM.jpg' width="700">
 
-## Optimize MongoDB with TRIM command
+## Optimize MongoDB with TRIM command (2016)
 
 * ***DBMS:*** MongoDB.
 * ***Languages:*** C/C++, Shell script.
@@ -43,7 +52,7 @@ Analyzed I/O characteristics of MongoDB using YCSB benchmark and _blktrace_. Des
 
 <img src='/images/portfolio_imgs/project_TRIM.jpg'  width="700">
 
-## Stock Prices Matching
+## Stock Prices Matching (2013)
 
 * ***OS:*** Androi.
 * ***Languages:*** Java.
