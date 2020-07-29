@@ -12,12 +12,6 @@ Highly motivated, integrity developer/researcher with over 5 years’ experience
 # Professional Experience
 ### [VLDB laboratory](http://flashsql.skku.ac.kr/), [Sungkyunkwan University](http://skku.edu/), Suwon, Korea (Aug 2019 - Oct 2019)
 _Postdoctoral Researcher_ 
-<div align="left">
-    This text is left aligned   
-</div>
-<div align="right">
-        This text is right aligned
-    </div>
 
 * Researches and implements a partition REDO logging architecture that exploits NVDIMM to improve MySQL/InnoDB’s throughput up to 2.8 times and reduce the recovery time by up to 11 times in OLTP workloads 
 * Referee: Professor [Sang-Won Lee](http://prof.icc.skku.ac.kr/~swlee/)
