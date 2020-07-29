@@ -30,6 +30,16 @@ author_profile: false
 
 <img src='/images/portfolio_imgs/project_PBNVM.jpg' width="700">
 
+## MongoDB Journaling evaluation with NVDIMM (2017)
+
+* ***DBMS:*** MongoDB.
+* ***Languages:*** C/C++, Shell script.
+* ***Technologies:*** NVDIMM, YCSB.
+* ***Public paper(s):*** [[conf. paper](https://www.researchgate.net/profile/Trong_Dat_Nguyen/publication/329144714_MongoDB_Journaling_Evaluation_with_NVDIMM_Devices/links/5bf7dc46458515a69e360ef5/MongoDB-Journaling-Evaluation-with-NVDIMM-Devices.pdf)]
+
+<img src='/images/portfolio_imgs/project_MongoDB_journaling.jpg' width="700">
+
+
 ## Dynamic Stream Mapping on MongoDB (2017)
 
 * ***DBMS:*** MongoDB.
