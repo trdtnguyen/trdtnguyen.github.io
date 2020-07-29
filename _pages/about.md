@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Highly motivated, integrity developer/researcher with over 5 years’ experience in researching, developing, optimizing RDBMS and NoSQL databases. Exceptional ability for exploiting cutting edge storage technology (persistent memory) to solve database systems’ problems.
+Highly motivated, hard-working, integrity developer/researcher with over 5 years’ experience in researching, developing, and optimizing RDBMS and NoSQL databases. Exceptional ability for identifying DBMS’s bottlenecks and exploiting cutting edge storage technologies (SSD and persistent memory) to improve throughputs of MySQL and MongoDB up to double.
 
 # Professional Experience
 ### [VLDB laboratory](http://flashsql.skku.ac.kr/), [Sungkyunkwan University](http://skku.edu/), Suwon, Korea (Aug 2019 - Oct 2019)
