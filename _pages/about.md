@@ -18,7 +18,7 @@ _Postdoctoral Researcher_
 
 ### [VLDB laboratory](http://flashsql.skku.ac.kr/), [Sungkyunkwan University](http://skku.edu/), Suwon, Korea (Sep 2014 - Aug 2019)
 _Ph.D researcher_
-*	First author of two SCI journal ([[SCIE paper1](https://www.sciencedirect.com/science/article/pii/S1383762118303102?via%3Dihub#b1)], [[SCIE paper2](http://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=167_2231)] )and two conference papers ([[conf. paper1](https://link.springer.com/chapter/10.1007/978-981-10-6520-0_1)], [[conf. paper2](http://dl.acm.org/citation.cfm?id=3007844)]).
+*	First author of two SCI journal ([[SCIE paper1](https://www.sciencedirect.com/science/article/pii/S1383762118303102?via%3Dihub#b1)], [[SCIE paper2](http://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=167_2231)] ) and two conference papers ([[conf. paper1](https://link.springer.com/chapter/10.1007/978-981-10-6520-0_1)], [[conf. paper2](http://dl.acm.org/citation.cfm?id=3007844)]).
 *	Design and implements a novel partition buffer to improve throughputs of InnoDB and WiredTiger by up to two times. [[paper](https://www.sciencedirect.com/science/article/pii/S1383762118303102?via%3Dihub#b1)]
 *	Using multi-stream SSD for optimizing WiredTiger. As the result, throughputs are improved by up to 65%. [[SCIE paper](http://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=167_2231)].
 * Advisor: Professor [Sang-Won Lee](http://prof.icc.skku.ac.kr/~swlee/)
