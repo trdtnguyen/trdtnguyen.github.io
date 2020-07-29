@@ -52,7 +52,7 @@ _Flash Developer_
 
 
 # Education
-- Sungkyunkwan University, Suwon, S. Korea - PhD in Computer Engineering  (Sep 2014 - Aug 2019).
-- Kyungpook National University, Daegu, S. Korea  - MS in Computer Science and Engineering (Mar 2012 - Feb 2014).
-- University of Science, Ho Chi Minh, Vietnam - BS in Information Technology (Sep 2003 - Sep 2007).
+- [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - PhD in Computer Engineering  (Sep 2014 - Aug 2019).
+- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea  - MS in Computer Science and Engineering (Mar 2012 - Feb 2014).
+- [University of Science](https://en.hcmus.edu.vn/), Ho Chi Minh, Vietnam - BS in Information Technology (Sep 2003 - Sep 2007).
 
