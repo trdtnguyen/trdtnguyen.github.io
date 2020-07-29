@@ -31,7 +31,8 @@ _Research Assistant_
 
 ### Thuduc Housing Development Corp. Ho Chi Minh, Vietnam (Apr 2011 - Feb 2012)
 _IT Staff_
-Supported staffs in SAP ERP. Coordinated with Business Intelligent (BI) developers and other SAP consultants.
+* Supported staffs in SAP ERP. 
+* Coordinated with Business Intelligent (BI) developers and other SAP consultants.
 ### FPT Information Services, Ho Chi Minh, Vietnam (Nov 2009 - Mar 2011)
 _SAP Consultant_
 *	Coordinated and consulted with customers to understand requirements, business processes.
@@ -41,9 +42,6 @@ _SAP Consultant_
 _Flash Developer_
 *	Developed flash applications with ActionScript3 Flash, Javascript/HTML.
 *	Coordinated and onsite supported with project manager in the US.
-
-### Gameloft, Ho Chi Minh, Vietnam (Oct 2007 - Dec 2007)
-_Mobile Game Developer_
 
 # Skills
 *	Languages: C/C++, Java, Python, shell script, ActionScript, Javascript, HTML, SQL.
