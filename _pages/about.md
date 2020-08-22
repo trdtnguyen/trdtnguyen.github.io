@@ -45,54 +45,17 @@ _Flash Developer_
 *	Coordinated and onsite supported with project manager in the US.
 
 # Skills
-<TABLE border="0"
-<TR style="border-bottom: 1px solid red"> <TH colspan="4">Professional Skills</TH> <TH colspan="2">Personal Skills</TH>
-<TR>
-  <TD> C/C++ </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
-  <TD> MySQL </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-  <TD> Self-motivated </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD> Java </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
-  <TD> MongoDB </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
-  <TD> Hard-working </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD> Python </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
-  <TD> Postgresql </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
-  <TD> Active Listerning </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD> Javascript </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
-  <TD> SAP </TD> <TD><span>&#9733;&#9733;</span></TD>
-  <TD> Problem-solving </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD> Shell script (bash/sh) </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
-  <TD> Github </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-  <TD> Communication </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD> SQL </TD> <TD><span>&#9733;&#9733;</span></TD>
-  <TD> Docker </TD> <TD><span>&#9733;&#9733;</span></TD>
-  <TD> Teamwork </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD> C# </TD> <TD><span>&#9733;&#9733;</span></TD>
-  <TD> Linux </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-  <TD> Critical Thinking </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD>Trouble shooting and Debbuging </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-  <TD> Windows </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-  <TD> Independent working</TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-<TR>
-  <TD>DBMS profiling/tuning  </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-  <TD> Android </TD> <TD><span>&#9733;&#9733;</span></TD>
-  <TD> Technical Writing</TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
-</TR>
-</TABLE>
+Technical Skills | Exp (years) | Technical Skills | Exp (years) | Personal Skills | Exp (years)
+-------|-----|-----|-----|-----|----- 
+C/C++  | &#9733;&#9733;&#9733;&#9733;&#9733; | MySQL | &#9733;&#9733;&#9733;&#9733; | Self-motivated | &#9733;&#9733;&#9733;&#9733;&#9733;
+Java | &#9733;&#9733;&#9733; | MongoDB | &#9733;&#9733;&#9733; | Hard-working | &#9733;&#9733;&#9733;&#9733;&#9733;
+Python | &#9733;&#9733;&#9733; | Postgresql | &#9733;&#9733;&#9733;| Active Listerning |&#9733;&#9733;&#9733;&#9733;&#9733;
+Javascript | &#9733;&#9733;&#9733; | SAP | &#9733;&#9733; | Problem-solving | &#9733;&#9733;&#9733;&#9733;&#9733;
+Shell script (bash/sh) | &#9733;&#9733;&#9733; | Github | &#9733;&#9733;&#9733;&#9733; | Communication |&#9733;&#9733;&#9733;&#9733;
+SQL | &#9733;&#9733; | Docker | &#9733;&#9733; | Teamwork | &#9733;&#9733;&#9733;&#9733;
+C# | &#9733;&#9733; | Linux | &#9733;&#9733;&#9733;&#9733; | Critical Thinking | &#9733;&#9733;&#9733;&#9733;
+Trouble shooting and Debbuging | &#9733;&#9733;&#9733;&#9733; | Windows | &#9733;&#9733;&#9733;&#9733; |Independent working | &#9733;&#9733;&#9733;&#9733;
+DBMS profiling/tuning  | &#9733;&#9733;&#9733;&#9733; | Android | &#9733;&#9733; | Technical Writing | &#9733;&#9733;&#9733;&#9733;
 
 - Strong background in: database management systems, data structures, algorithms, object-oriented design patterns.
 - Knowledge of: AWS, agile/scrum, Jira.
