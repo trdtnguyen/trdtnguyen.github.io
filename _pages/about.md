@@ -45,23 +45,38 @@ _Flash Developer_
 *	Coordinated and onsite supported with project manager in the US.
 
 # Skills
-Technical Skills | Exp (years) | Technical Skills | Exp (years) | Personal Skills | Exp (years)
--------|-----|-----|-----|-----|----- 
-C/C++  | &#9733;&#9733;&#9733;&#9733;&#9733; | MySQL | &#9733;&#9733;&#9733;&#9733; | Self-motivated | &#9733;&#9733;&#9733;&#9733;&#9733;
-Java | &#9733;&#9733;&#9733; | MongoDB | &#9733;&#9733;&#9733; | Hard-working | &#9733;&#9733;&#9733;&#9733;&#9733;
-Python | &#9733;&#9733;&#9733; | Postgresql | &#9733;&#9733;&#9733;| Active Listerning |&#9733;&#9733;&#9733;&#9733;&#9733;
-Javascript | &#9733;&#9733;&#9733; | SAP | &#9733;&#9733; | Problem-solving | &#9733;&#9733;&#9733;&#9733;&#9733;
-Shell script (bash/sh) | &#9733;&#9733;&#9733; | Github | &#9733;&#9733;&#9733;&#9733; | Communication |&#9733;&#9733;&#9733;&#9733;
-SQL | &#9733;&#9733; | Docker | &#9733;&#9733; | Teamwork | &#9733;&#9733;&#9733;&#9733;
-C# | &#9733;&#9733; | Linux | &#9733;&#9733;&#9733;&#9733; | Critical Thinking | &#9733;&#9733;&#9733;&#9733;
-Trouble shooting and Debbuging | &#9733;&#9733;&#9733;&#9733; | Windows | &#9733;&#9733;&#9733;&#9733; |Independent working | &#9733;&#9733;&#9733;&#9733;
-DBMS profiling/tuning  | &#9733;&#9733;&#9733;&#9733; | Android | &#9733;&#9733; | Technical Writing | &#9733;&#9733;&#9733;&#9733;
+## Professional skills
+***Advanced in:*** 
+* C/C++ 
+* Mysql 
+* Data structures, Algorithms
+* Object-oriented programming 
+* Debugging, Troubleshooting and profiling DBMS.
 
-- Strong background in: database management systems, data structures, algorithms, object-oriented design patterns.
-- Knowledge of: AWS, agile/scrum, Jira.
+***Intermediate in:*** 
+* SQL, Java , Python, C#, Javascript/HTML/CSS, bash
+* Ruby on Trails
+* MongoDB
+* Github.
+
+***Novice in:*** 
+* AWS
+* agile/scrum, Jira
+
+## Personal skills
+* Self-motivated
+* Hard-working
+* Active listerning
+* Problem-solving
+* Communication, teamwork
+* Critical thinking
+* Independent working
+* Technical writing
 
 # Education
-- [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - PhD in Computer Engineering  (2019) ***3.75/4.0 GPA***.
-- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea  - MS in Computer Science and Engineering (2014) ***3.9/4.0 GPA***.
-- [University of Science](https://en.hcmus.edu.vn/), Ho Chi Minh, Vietnam - BS in Information Technology (2007).
+- [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - *PhD in Computer Engineering*, ***3.75/4.0 GPA*** (2019).
+
+- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea - *MS in Computer Science and Engineering*, ***3.9/4.0 GPA*** (2014).
+
+- [University of Science](https://en.hcmus.edu.vn/), Ho Chi Minh, Vietnam - *BS in Information Technology* (2007).
 
