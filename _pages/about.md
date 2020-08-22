@@ -45,14 +45,58 @@ _Flash Developer_
 *	Coordinated and onsite supported with project manager in the US.
 
 # Skills
-*	Languages: C/C++, Java, Python, shell script, ActionScript, Javascript, HTML, SQL.
-*	Operating Systems: Linux, Window, Android
-*	DBMS: MySQL, SQLite, Postgresql, MongoDB, RocksDB, CouchBase, Neo4j.
-*	Technologies: github, totoisesvn, docker.
-
+<TABLE border="0"
+<TR style="border-bottom: 1px solid red"> <TH colspan="4">Professional Skills</TH> <TH colspan="2">Personal Skills</TH>
+<TR>
+  <TD> C/C++ </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
+  <TD> MySQL </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+  <TD> Self-motivated </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD> Java </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD> MongoDB </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD> Hard-working </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD> Python </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD> Postgresql </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD> Active Listerning </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD> Javascript </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD> SAP </TD> <TD><span>&#9733;&#9733;</span></TD>
+  <TD> Problem-solving </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD> Shell script (bash/sh) </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD> Github </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+  <TD> Communication </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD> SQL </TD> <TD><span>&#9733;&#9733;</span></TD>
+  <TD> Docker </TD> <TD><span>&#9733;&#9733;</span></TD>
+  <TD> Teamwork </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD> C# </TD> <TD><span>&#9733;&#9733;</span></TD>
+  <TD> Linux </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+  <TD> Critical Thinking </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD>  </TD> <TD><span></span></TD>
+  <TD> Windows </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD> Independent working</TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+<TR>
+  <TD>  </TD> <TD><span></span></TD>
+  <TD> Android </TD> <TD><span>&#9733;&#9733;</span></TD>
+  <TD> Technical Writing</TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+</TR>
+</TABLE>
+ 
 
 # Education
-- [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - PhD in Computer Engineering  (Sep 2014 - Aug 2019).
-- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea  - MS in Computer Science and Engineering (Mar 2012 - Feb 2014).
-- [University of Science](https://en.hcmus.edu.vn/), Ho Chi Minh, Vietnam - BS in Information Technology (Sep 2003 - Sep 2007).
+- [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - PhD in Computer Engineering  (2019) ***3.75/4.0 GPA***.
+- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea  - MS in Computer Science and Engineering (2014) ***3.9/4.0 GPA***.
+- [University of Science](https://en.hcmus.edu.vn/), Ho Chi Minh, Vietnam - BS in Information Technology (2007).
 
