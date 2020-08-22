@@ -83,17 +83,19 @@ _Flash Developer_
   <TD> Critical Thinking </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
 </TR>
 <TR>
-  <TD>  </TD> <TD><span></span></TD>
-  <TD> Windows </TD> <TD><span>&#9733;&#9733;&#9733;</span></TD>
+  <TD>Trouble shooting and Debbuging </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
+  <TD> Windows </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
   <TD> Independent working</TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
 </TR>
 <TR>
-  <TD>  </TD> <TD><span></span></TD>
+  <TD>DBMS profiling/tuning  </TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
   <TD> Android </TD> <TD><span>&#9733;&#9733;</span></TD>
   <TD> Technical Writing</TD> <TD><span>&#9733;&#9733;&#9733;&#9733;</span></TD>
 </TR>
 </TABLE>
- 
+
+- Strong background in: database management systems, data structures, algorithms, object-oriented design patterns.
+- Knowledge of: AWS, agile/scrum, Jira.
 
 # Education
 - [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - PhD in Computer Engineering  (2019) ***3.75/4.0 GPA***.
