@@ -7,9 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Highly motivated, hard-working, integrity developer/researcher with over 5 years’ experience in researching, developing, and optimizing RDBMS and NoSQL databases. Exceptional ability for identifying DBMS’s bottlenecks and exploiting cutting edge storage technologies (SSD and persistent memory) to improve throughputs of MySQL and MongoDB up to double.
+I'm a data engineer/software engineer with a Ph.D. and over 5 years’ experience in developing, and optimizing web applications and Database Management Systems. I'm currently working toward a certificate in data engineering where I'm growing my skills in Python, SQL, Data Warehousing, Azure, Apache Airflow, Apache Kafka, Docker, and Kubernetes. I also currently using my knowledge and skills in helping college students with computer science subjects (Database Management, C++, Java, and Python) as a online part-time tutor.
 
-# Professional Experience
+# Education
+- [Springboard](https://www.springboard.com/) *Data Engineering Program Certificate* (2020)
+- [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - *PhD in Computer Engineering*, ***3.75/4.0 GPA*** (2019).
+
+- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea - *MS in Computer Science and Engineering*, ***3.9/4.0 GPA*** (2014).
+
+# Experience
+### [Springboard](https://www.springboard.com/)  United State (remote) (Sep 2020 - present)
+_Data Engineer Fellow_
+
+* 450+ hours industry-driven curriculum with weekly 1:1 industry expert mentor. Mastering skills in Python, SQL, Azure, Apache Airflow, Apache Kafka, Kafka Streaming API, Docker, and Kubernetes.
+### [tutor.com](tutor.com) United States (remote) (Sep 2020 - present)
+_Online Tutor_
+
+* Working on an online one-to-one mentoring program that helps college and K-12 students on Database Management System, C++, Java, and Python programming subjects.
 ### [VLDB laboratory](http://flashsql.skku.ac.kr/), [Sungkyunkwan University](http://skku.edu/), Suwon, Korea (Aug 2019 - Oct 2019)
 _Postdoctoral Researcher_ 
 
@@ -29,54 +43,6 @@ _Research Assistant_
 *	Researched and evaluated with graph database (e.g., Neo4j, GraphBase). 
 * Advisor: Professor [Wook-Shin Han](https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/people/professor-1)
 
-### [Thuduc Housing Development Corp.](http://thuduchouse.vn/), Ho Chi Minh, Vietnam (Apr 2011 - Feb 2012)
-_IT Staff_
-* Supported staffs in SAP ERP. 
-* Coordinated with Business Intelligent (BI) developers and other SAP consultants.
-
-### [FPT Software](https://www.fpt-software.com/), Ho Chi Minh, Vietnam (Nov 2009 - Mar 2011)
-_SAP Consultant_
-*	Coordinated and consulted with customers to understand requirements, business processes.
-*	Configured SAP system to match with customer’s requirements.
-
-### [Pyco Group](https://pycogroup.com/home), Ho Chi Minh, Vietnam (Feb 2008 - Nov 2009)
-_Flash Developer_
-*	Developed flash applications with ActionScript3 Flash, Javascript/HTML.
-*	Coordinated and onsite supported with project manager in the US.
-
 # Skills
-## Professional skills
-***Advanced in:*** 
-* C/C++ 
-* Mysql 
-* Data structures, Algorithms
-* Object-oriented programming 
-* Debugging, Troubleshooting and profiling DBMS.
-
-***Intermediate in:*** 
-* SQL, Java , Python, C#, Javascript/HTML/CSS, bash
-* Ruby on Trails
-* MongoDB
-* Github.
-
-***Novice in:*** 
-* AWS
-* agile/scrum, Jira
-
-## Personal skills
-* Self-motivated
-* Hard-working
-* Active listerning
-* Problem-solving
-* Communication, teamwork
-* Critical thinking
-* Independent working
-* Technical writing
-
-# Education
-- [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - *PhD in Computer Engineering*, ***3.75/4.0 GPA*** (2019).
-
-- [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea - *MS in Computer Science and Engineering*, ***3.9/4.0 GPA*** (2014).
-
-- [University of Science](https://en.hcmus.edu.vn/), Ho Chi Minh, Vietnam - *BS in Information Technology* (2007).
-
+* ***Tools and Technologies:*** Python, C/C++, Java, SQL, MySQL, Microsoft Azure, Docker, HDFS, Apache Spark, Apache Airflow, Tableau, Hadoop, Git.
+* ***Industrial Knowledge:*** Object-oriented Programming (OOP), Big Data, Data Warehousing, Cloud Computing, Software Project Management, Extract, Transform, Load (ETL), Data Modeling, Business Analysis.

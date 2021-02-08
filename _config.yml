@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dat Trong Nguyen"
+title                    : "Dat Nguyen"
 title_separator          : "-"
-name                     : &name "Dat Trong Nguyen"
-description              : &description "Software Engineer"
+name                     : &name "Dat Nguyen"
+description              : &description "Data Engineer"
 url                      : https://trdtnguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "trdtnguyen/trdtnguyen.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dat Trong Nguyen"
+  name             : "Dat Nguyen"
   avatar           : "profile.jpg"
-  bio              : "Software Engineerer"
+  bio              : "Data Engineerer"
   location         : "Texas, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
