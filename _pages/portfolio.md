@@ -16,7 +16,7 @@ author_profile: false
 * ***Technologies:*** ETL, Apache Airflow, Apache Spark, Docker, Flask, Restful API
 * ***Github:*** [sb-capstone](https://github.com/trdtnguyen/sb-capstone1)
 This project provides ready-to-analyze datasets for Covid-19 and other related aspects in our daily life such as stock index, unemployment rate, job opennings, bussiness activities. We implement a full stack solution includes: (1) the front-end dashboard with Flask + jQuery, (2) ETL pipeline with Apache Spark + Python and Apache Airflow for scheduling ETL tasks and (3) MySQL as the back-end DBMS. 
-<img src='https://github.com/trdtnguyen/sb-capstone1/blob/main/docs/flowchart.jpg' width="700">
+<img src='/images/portfolio_imgs/project_covid_flowchart.jpg' width="700">
 
 
 ## Revisiting write-ahead logging with NVDIMM (2019)
