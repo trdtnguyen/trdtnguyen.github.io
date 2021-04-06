@@ -12,7 +12,6 @@ I'm a data engineer/software engineer with a Ph.D. and over 5 years’ experienc
 # Education
 - [Springboard](https://www.springboard.com/) *Data Engineering Program Certificate* (2021)
 - [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - *PhD in Computer Engineering*, ***3.75/4.0 GPA*** (2019).
-
 - [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea - *MS in Computer Science and Engineering*, ***3.9/4.0 GPA*** (2014).
 
 # Experience
@@ -26,6 +25,7 @@ _Data Engineer Fellow_
 
 * 450+ hours industry-driven curriculum with weekly 1:1 industry expert mentor. Mastering skills in Python, SQL, Azure, Apache Airflow, Apache Kafka, Kafka Streaming API, Docker, and Kubernetes.
 ### [VLDB laboratory](http://flashsql.skku.ac.kr/), [Sungkyunkwan University](http://skku.edu/), Suwon, Korea (Aug 2019 - Oct 2019)
+
 _Postdoctoral Researcher_ 
 
 * Researches and implements a partition REDO logging architecture that exploits NVDIMM to improve MySQL/InnoDB’s throughput up to 2.8 times and reduce the recovery time by up to 11 times in OLTP workloads 
