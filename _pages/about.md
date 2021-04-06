@@ -9,6 +9,8 @@ redirect_from:
 ---
 I'm a data engineer/software engineer with a Ph.D. and over 5 years’ experience in developing, and optimizing web applications and Database Management Systems. I recently got a Springboard certificate in Data Engineering that growing my skills in Python, SQL, Data Warehousing, Azure, Apache Airflow, Apache Kafka, Docker, and Kubernetes. I also currently using my knowledge and skills in helping college students with computer science subjects (Database Management, C++, Java, and Python) as a online part-time tutor.
 
+[Resume](https://drive.google.com/file/d/1CD09bMqC7ljpwILijkw6EK6UYMGtUaZP/view?usp=sharing)
+
 # Education
 - [Springboard](https://www.springboard.com/) *Data Engineering Program Certificate* (2021)
 - [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - *PhD in Computer Engineering*, ***3.75/4.0 GPA*** (2019).
