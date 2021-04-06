@@ -7,23 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a data engineer/software engineer with a Ph.D. and over 5 years’ experience in developing, and optimizing web applications and Database Management Systems. I'm currently working toward a certificate in data engineering where I'm growing my skills in Python, SQL, Data Warehousing, Azure, Apache Airflow, Apache Kafka, Docker, and Kubernetes. I also currently using my knowledge and skills in helping college students with computer science subjects (Database Management, C++, Java, and Python) as a online part-time tutor.
+I'm a data engineer/software engineer with a Ph.D. and over 5 years’ experience in developing, and optimizing web applications and Database Management Systems. I recently got a Springboard certificate in Data Engineering that growing my skills in Python, SQL, Data Warehousing, Azure, Apache Airflow, Apache Kafka, Docker, and Kubernetes. I also currently using my knowledge and skills in helping college students with computer science subjects (Database Management, C++, Java, and Python) as a online part-time tutor.
 
 # Education
-- [Springboard](https://www.springboard.com/) *Data Engineering Program Certificate* (2020)
+- [Springboard](https://www.springboard.com/) *Data Engineering Program Certificate* (2021)
 - [Sungkyunkwan University](https://www.skku.edu/eng/), Suwon, S. Korea - *PhD in Computer Engineering*, ***3.75/4.0 GPA*** (2019).
 
 - [Kyungpook National University](https://en.knu.ac.kr/main/main.htm), Daegu, S. Korea - *MS in Computer Science and Engineering*, ***3.9/4.0 GPA*** (2014).
 
 # Experience
-### [Springboard](https://www.springboard.com/)  United State (remote) (Sep 2020 - present)
-_Data Engineer Fellow_
-
-* 450+ hours industry-driven curriculum with weekly 1:1 industry expert mentor. Mastering skills in Python, SQL, Azure, Apache Airflow, Apache Kafka, Kafka Streaming API, Docker, and Kubernetes.
 ### [tutor.com](tutor.com) United States (remote) (Sep 2020 - present)
 _Online Tutor_
 
 * Working on an online one-to-one mentoring program that helps college and K-12 students on Database Management System, C++, Java, and Python programming subjects.
+
+### [Springboard](https://www.springboard.com/)  United State (remote) (Sep 2020 - Mar 2021)
+_Data Engineer Fellow_
+
+* 450+ hours industry-driven curriculum with weekly 1:1 industry expert mentor. Mastering skills in Python, SQL, Azure, Apache Airflow, Apache Kafka, Kafka Streaming API, Docker, and Kubernetes.
 ### [VLDB laboratory](http://flashsql.skku.ac.kr/), [Sungkyunkwan University](http://skku.edu/), Suwon, Korea (Aug 2019 - Oct 2019)
 _Postdoctoral Researcher_ 
 
